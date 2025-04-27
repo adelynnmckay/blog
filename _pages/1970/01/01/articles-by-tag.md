@@ -1,5 +1,5 @@
 ---
-title: Notes by Tag
+title: Articles by Tag
 ---
 
 {% include theme/templates/pages-by-tag.html %}
